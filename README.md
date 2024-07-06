@@ -1,1 +1,1 @@
-Hi. My name is [Chew](https://flowerinthenight.com/), the current CTO of [Alphaus, Inc](https://www.alphaus.cloud/).
+Hi. My name is [Chew](https://flowerinthenight.com/). I am currently the CTO of [Alphaus, Inc](https://www.alphaus.cloud/).
